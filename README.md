@@ -3,14 +3,14 @@
 ## Cloning the Repository
 
 ```
-$git clone https://github.com/mannamchowdary/DockerWebProject.git
+$git clone https://github.com/mahesh6209/DockerWebProject.git
 ```
 
 ## Building Docker Image
 
 ```
 $cd webpage
-$docker build -t mannam786/webpage .
+$docker build -t mahesh6209/webpage .
 ```
 
 ## Running the Container
